@@ -204,7 +204,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - 📖 **Documentation**: Check the `docs/` folder
 - 🐛 **Issues**: Report bugs via GitHub Issues
 - 💬 **Discussions**: Use GitHub Discussions
-- 📧 **Contact**: [Add your contact information]
 
 ---
 
