@@ -1,0 +1,110 @@
+[
+  {
+    "_id": "amalaki_panaka",
+    "name": "Amalaki Panaka (Indian Gooseberry Drink)",
+    "description": "A traditional health drink with natural ingredients, used as an immediate energy supplement.",
+    "instructions": [
+      "Steam cook the gooseberries, de-seed them, and grind into a paste.",
+      "Extract juice from the paste. Add about 300 ml more water and squeeze the pulp again to get more juice.",
+      "Prepare palm sugar syrup by boiling 1 kg palm sugar in 200 ml water.",
+      "Mix the prepared gooseberry juice with the palm sugar syrup. Stir well until combined."
+    ],
+    "dosha_focus": "pitta",
+    "health_benefits": [
+      "Immediate energy supplement",
+      "Rich source of calcium, potassium, vitamin C, B complex, and antioxidants",
+      "Good for osteoarthritis, atherosclerosis, anemia, peptic ulcer"
+    ],
+    "contraindications": [
+      "Not advisable for individuals with Diabetes mellitus due to high sugar content."
+    ]
+  },
+  {
+    "_id": "golden_milk",
+    "name": "Golden Milk (Haldi Doodh)",
+    "description": "Traditional turmeric milk drink that supports immunity and reduces inflammation.",
+    "instructions": [
+      "Heat 1 cup of milk (dairy or plant-based)",
+      "Add 1/2 teaspoon turmeric powder",
+      "Add a pinch of black pepper and ginger powder",
+      "Sweeten with honey or jaggery to taste",
+      "Simmer for 5 minutes and serve warm"
+    ],
+    "dosha_focus": "vata",
+    "health_benefits": [
+      "Anti-inflammatory properties",
+      "Supports immune system",
+      "Promotes better sleep",
+      "Aids digestion"
+    ],
+    "contraindications": [
+      "Avoid if you have gallstones or are taking blood-thinning medications"
+    ]
+  },
+  {
+    "_id": "coconut_rice",
+    "name": "Coconut Rice (Narikela Anna)",
+    "description": "Cooling and nourishing rice dish perfect for Pitta constitution.",
+    "instructions": [
+      "Cook 1 cup basmati rice with extra water",
+      "In a pan, heat 2 tbsp coconut oil",
+      "Add mustard seeds, curry leaves, and ginger",
+      "Add cooked rice and 1/2 cup fresh coconut",
+      "Season with salt and mix gently"
+    ],
+    "dosha_focus": "pitta",
+    "health_benefits": [
+      "Cooling and soothing",
+      "Easy to digest",
+      "Provides sustained energy",
+      "Rich in healthy fats"
+    ],
+    "contraindications": [
+      "May increase Kapha if consumed in excess"
+    ]
+  },
+  {
+    "_id": "cumin_tea",
+    "name": "Cumin Tea (Jira Jal)",
+    "description": "Digestive tea that enhances appetite and supports metabolism.",
+    "instructions": [
+      "Boil 2 cups of water",
+      "Add 1 teaspoon cumin seeds",
+      "Simmer for 10 minutes",
+      "Strain and serve warm",
+      "Can add a pinch of rock salt if desired"
+    ],
+    "dosha_focus": "vata",
+    "health_benefits": [
+      "Improves digestion",
+      "Enhances appetite",
+      "Reduces bloating",
+      "Supports metabolism"
+    ],
+    "contraindications": [
+      "Avoid in excess if you have hyperacidity"
+    ]
+  },
+  {
+    "_id": "ginger_honey_tea",
+    "name": "Ginger Honey Tea (Adrak Madhu Chai)",
+    "description": "Warming tea excellent for cold weather and digestive support.",
+    "instructions": [
+      "Boil 2 cups water with 1 inch fresh ginger",
+      "Simmer for 15 minutes",
+      "Strain into cups",
+      "Add 1 teaspoon honey when slightly cooled",
+      "Serve warm"
+    ],
+    "dosha_focus": "kapha",
+    "health_benefits": [
+      "Warming and energizing",
+      "Supports respiratory health",
+      "Aids digestion",
+      "Natural immunity booster"
+    ],
+    "contraindications": [
+      "Avoid in excess if you have high Pitta or hyperacidity"
+    ]
+  }
+]

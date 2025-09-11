@@ -1,0 +1,112 @@
+[
+  {
+    "_id": "amalaki",
+    "name": "Indian Gooseberry (Amalaki)",
+    "description": "A traditional Indian fruit known for its high Vitamin C content and potent antioxidant properties. It is a key ingredient in many Ayurvedic formulations.",
+    "ayurvedicProperties": {
+      "rasa": ["sour", "astringent", "pungent", "sweet", "bitter"],
+      "virya": "cooling",
+      "vipaka": "sweet",
+      "dosha_effects": {
+        "vata": "balances",
+        "pitta": "reduces",
+        "kapha": "balances"
+      }
+    },
+    "nutritionalInfo": {
+      "caloriesPer100g": 44,
+      "protein": 0.9,
+      "carbohydrates": 10,
+      "fat": 0.1,
+      "fiber": 4.3
+    }
+  },
+  {
+    "_id": "turmeric",
+    "name": "Turmeric (Haridra)",
+    "description": "Golden spice with powerful anti-inflammatory and antioxidant properties. Essential in Ayurvedic medicine.",
+    "ayurvedicProperties": {
+      "rasa": ["bitter", "pungent"],
+      "virya": "heating",
+      "vipaka": "pungent",
+      "dosha_effects": {
+        "vata": "reduces",
+        "pitta": "increases",
+        "kapha": "reduces"
+      }
+    },
+    "nutritionalInfo": {
+      "caloriesPer100g": 354,
+      "protein": 7.8,
+      "carbohydrates": 64.9,
+      "fat": 9.9,
+      "fiber": 21
+    }
+  },
+  {
+    "_id": "ginger",
+    "name": "Ginger (Adrak)",
+    "description": "Warming spice excellent for digestion and reducing inflammation. Balances Vata and Kapha doshas.",
+    "ayurvedicProperties": {
+      "rasa": ["pungent"],
+      "virya": "heating",
+      "vipaka": "sweet",
+      "dosha_effects": {
+        "vata": "reduces",
+        "pitta": "increases",
+        "kapha": "reduces"
+      }
+    },
+    "nutritionalInfo": {
+      "caloriesPer100g": 80,
+      "protein": 1.8,
+      "carbohydrates": 17.8,
+      "fat": 0.8,
+      "fiber": 2
+    }
+  },
+  {
+    "_id": "coconut",
+    "name": "Coconut (Narikela)",
+    "description": "Cooling and nourishing fruit that helps balance Pitta dosha. Rich in healthy fats.",
+    "ayurvedicProperties": {
+      "rasa": ["sweet"],
+      "virya": "cooling",
+      "vipaka": "sweet",
+      "dosha_effects": {
+        "vata": "reduces",
+        "pitta": "reduces",
+        "kapha": "increases"
+      }
+    },
+    "nutritionalInfo": {
+      "caloriesPer100g": 354,
+      "protein": 3.3,
+      "carbohydrates": 15.2,
+      "fat": 33.5,
+      "fiber": 9
+    }
+  },
+  {
+    "_id": "cumin",
+    "name": "Cumin (Jira)",
+    "description": "Digestive spice that enhances appetite and supports all three doshas when used appropriately.",
+    "ayurvedicProperties": {
+      "rasa": ["pungent", "bitter"],
+      "virya": "heating",
+      "vipaka": "pungent",
+      "dosha_effects": {
+        "vata": "reduces",
+        "pitta": "increases",
+        "kapha": "reduces"
+      }
+    },
+    "nutritionalInfo": {
+      "caloriesPer100g": 375,
+      "protein": 17.8,
+      "carbohydrates": 44.2,
+      "fat": 22.3,
+      "fiber": 10.5
+    }
+  }
+]
